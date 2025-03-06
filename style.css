@@ -1,0 +1,71 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  margin: 0;
+  padding: 20px;
+}
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 30px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+h1 {
+  text-align: center;
+  color: #2c3e50; /* Azul oscuro */
+  font-size: 2.2em;
+  margin-bottom: 10px;
+}
+h2 {
+  color: #34495e; /* Gris azulado */
+  font-size: 1.5em;
+  border-bottom: 2px solid #34495e;
+  padding-bottom: 5px;
+  margin-top: 25px;
+}
+p {
+  font-size: 1em;
+  line-height: 1.6;
+  color: #555;
+}
+.contact-info {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.contact-info p {
+  margin: 5px 0;
+  font-size: 0.95em;
+  color: #777;
+}
+.contact-info a {
+  color: #2980b9; /* Azul */
+  text-decoration: none;
+}
+.contact-info a:hover {
+  text-decoration: underline;
+}
+.section {
+  margin-bottom: 20px;
+}
+.section ul {
+  list-style-type: disc; /* Viñetas redondas */
+  padding-left: 20px;
+}
+.section ul li {
+  margin-bottom: 8px;
+  color: #555;
+}
+.highlight {
+  font-weight: bold;
+  color: #2c3e50; /* Azul oscuro */
+}
+.footer {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 0.9em;
+  color: #777;
+}
